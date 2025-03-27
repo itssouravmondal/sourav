@@ -78,7 +78,7 @@ function Projects() {
                 </a>
                 <a
                   href={project.links.doc}
-                  className="btn bg-secondary hover:bg-secondary-dark text-sm px-4 py-2"
+                  className="btn gradient-bg text-sm px-4 py-2"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -86,7 +86,7 @@ function Projects() {
                 </a>
                 <a
                   href={project.links.ppt}
-                  className="btn bg-secondary hover:bg-secondary-dark text-sm px-4 py-2"
+                  className="btn gradient-bg text-sm px-4 py-2"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

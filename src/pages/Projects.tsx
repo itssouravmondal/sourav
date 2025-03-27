@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 function Projects() {
   const projects = [
     {
-      title: "ResumePro Interview Insights",
+      title: "Interview Insights: ResumePro ",
       description: "An AI-powered tool designed to revolutionize interview preparation by automatically generating personalized interview questions based on a candidate’s resume. Leveraging advanced resume analysis, ResumePro Interview Insights creates contextually relevant questions tailored to a candidate’s experience, skills, and cultural fit. This tool streamlines the hiring process, ensuring consistency, efficiency, and deeper candidate assessments while reducing the time recruiters spend on manual question creation.",
       links: {
         web: "https://example.com/project1",
@@ -21,8 +21,8 @@ function Projects() {
       }
     },
     {
-      title: "Descriptive Analysis of Music Distribution",
-      description: "Designed interactive dashboards using Google Data Studio for KPI tracking, identifying recurring distribution artists, analyzing distribution volume, and enhancing the music distribution process and management.",
+      title: "GenAI Powered Customer Support Chatbot",
+      description: "An intelligent AI assistant designed to provide instant, accurate guidance on music metadata best practices, service offerings, and licensing agreements. By streamlining information delivery and reducing support ticket volume, the chatbot will enhance user experience while ensuring consistency in responses.",
       links: {
         web: "https://example.com/project3",
         doc: "https://example.com/project3/doc",

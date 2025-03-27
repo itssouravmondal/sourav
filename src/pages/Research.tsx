@@ -30,8 +30,10 @@ function Research() {
       }
     },
     {
-      title: "AI Implementation in Music Industry",
-      description: "Research on the impact and potential applications of AI technologies in the music industry, focusing on content creation, distribution, and marketing automation.",
+      title: "AI-Driven Music Artwork Generation: System Architecture",
+      description: "An advanced AI-powered system that transforms musical elements into visually compelling album artwork. Using GPT-4o for sentiment analysis, VectorShift for prompt optimization, and DALL-E 3 for image generation, the system creates high-resolution visuals aligned with lyrics, mood, and genre.
+
+While the architecture is robust, enhancing sentiment interpretation and user feedback can further improve output quality. Business opportunities through API integration and subscription models offer potential for commercialization.",
       links: {
         web: "https://example.com/research4",
         doc: "https://example.com/research4/doc",

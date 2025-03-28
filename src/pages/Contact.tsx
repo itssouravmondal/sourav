@@ -18,7 +18,7 @@ function Contact() {
                   Get in Touch
                 </h3>
                 <p className="text-gray-700">
-                  I'm always open to discussing product design work or partnership opportunities.
+                  I'm always open to discussing product work or partnership opportunities.
                 </p>
               </div>
 
@@ -40,6 +40,10 @@ function Contact() {
                   <li className="flex items-center">
                     <span className="w-2 h-2 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 mr-3"></span>
                     LinkedIn: <a href="https://www.linkedin.com/in/itssouravmondal/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 ml-1">itssouravmondal</a>
+                  </li>
+                   <li className="flex items-center">
+                    <span className="w-2 h-2 rounded-full bg-gradient-to-r from-blue-600 to-purple-600 mr-3"></span>
+                    Github: <a href="https://github.com/itssouravmondal/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:text-blue-700 ml-1">itssouravmondal</a>
                   </li>
                 </ul>
               </div>

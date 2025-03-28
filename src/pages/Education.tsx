@@ -7,7 +7,7 @@ function Education() {
       institution: "Vidyasagar University",
       location: "West Bengal",
       duration: "2015 - 2018",
-      description: "Focused on core computer science concepts, data structures, and software development principles.",
+      description: "Focused on core computer science concepts and software development principles.",
       achievements: [
         "Graduated with Honours",
         "Served as President of the Student Union",
@@ -21,9 +21,9 @@ function Education() {
       duration: "2012 - 2014",
       description: "Completed Higher Secondary education with focus on Science and Mathematics.",
       achievements: [
-        "Achieved distinction in Mathematics and Computer Science",
-        "Active participant in school's technical club",
-        "Organized technical workshops for juniors"
+        "Organized technical workshops for juniors",
+        "Active participant in the school's technical club",
+        "Organized cultural events"
       ]
     }
   ];

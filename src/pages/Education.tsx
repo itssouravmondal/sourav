@@ -9,9 +9,9 @@ function Education() {
       duration: "2015 - 2018",
       description: "Focused on core computer science concepts, data structures, and software development principles.",
       achievements: [
-        "Completed with First Class Honours",
-        "Specialized in Database Management Systems",
-        "Participated in various coding competitions"
+        "Graduated with Honours",
+        "Served as President of the Student Union",
+        "Developed final-year project on Cold Storage Management"
       ]
     },
     {

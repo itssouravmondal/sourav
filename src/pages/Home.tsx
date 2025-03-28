@@ -77,7 +77,7 @@ function Home() {
             <div className="mb-8 flex justify-center">
               <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-gradient-to-r from-blue-600 to-purple-600">
                 <img 
-                  src="https://raw.githubusercontent.com/souravmondal99/vitejs-vite-iutsuaqw/main/public/profile.png" 
+                  src="https://github.com/itssouravmondal/vitejs-vite-iutsuaqw/tree/main/src/assets/profile.png" 
                   alt="Sourav Mondal"
                   className="w-full h-full object-cover"
                 />

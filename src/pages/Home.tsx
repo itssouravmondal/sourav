@@ -54,7 +54,7 @@ function Home() {
           link: "#"
         },
         {
-          name: "AI AudioBox": YouTube Channel",
+          name: AI AudioBox: YouTube Channel",
           description: "AI-powered storytelling",
           link: "#"
         }

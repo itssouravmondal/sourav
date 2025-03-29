@@ -39,7 +39,7 @@ function Skills() {
       title: "Business Growth & Efficiency",
       skills: [
         "Operations Management",
-        "Process Optimization"
+        "Process Optimization",
         "Project Management",
         "Digital Marketing",
         "Organization Communication",

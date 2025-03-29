@@ -77,7 +77,7 @@ function Home() {
             <div className="mb-8 flex justify-center">
               <div className="w-48 h-48 rounded-full overflow-hidden border-4 border-gradient-to-r from-blue-600 to-purple-600">
                 <img 
-                  src="public/profile.png" 
+                  src="/public/profile.png" 
                   alt="Sourav Mondal"
                   className="w-full h-full object-cover"
                 />

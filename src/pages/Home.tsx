@@ -9,12 +9,12 @@ function Home() {
         {
           name: "B.Sc. Computer Science",
           description: "Vidyasagar University, West Bengal",
-          duration: "2018 - 2021"
+          duration: "2015 - 2018"
         },
         {
           name: "Higher Secondary Education",
           description: "Jhakra High School, West Bengal",
-          duration: "2016 - 2018"
+          duration: "2012 - 2014"
         }
       ],
       link: "/education"
@@ -44,8 +44,8 @@ function Home() {
       title: "Projects",
       items: [
         {
-          name: "Generative AI Chatbot",
-          description: "AI Assistant for Songdew",
+          name: "Interview Insights: ResumeProt",
+          description: "For interview preparation",
           link: "#"
         },
         {
@@ -54,8 +54,8 @@ function Home() {
           link: "#"
         },
         {
-          name: "Music Distribution Analytics",
-          description: "Interactive Dashboard using Google Data Studio",
+          name: "AI AudioBox": YouTube Channel",
+          description: "AI-powered storytelling",
           link: "#"
         }
       ],

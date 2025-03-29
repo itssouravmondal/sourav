@@ -38,9 +38,18 @@ function Skills() {
     {
       title: "Technical Skills",
       skills: [
-        "API Testing & Development (Postman)",
-        "Agile Methodology (Kanban & Scrum)",
-        "Data Analytics"
+        "Operations Management",
+        "Process Optimization"
+        "Project Management",
+        "Digital Marketing",
+        "Organization Communication",
+        "Performance Tracking (MIS)",
+        "Market Research & Consumer Insights",
+        "Data Analytics & Business Intelligence (BI)",
+        "Strategic Planning & Decision Making",
+        "Customer Relationship Management (CRM)",
+        "Innovation & Business Growth Strategies",
+        "Brand Management & Positioning"
       ]
     },
     {

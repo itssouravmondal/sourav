@@ -36,7 +36,7 @@ function Skills() {
       ]
     },
     {
-      title: "Technical Skills",
+      title: "Business Growth & Efficiency",
       skills: [
         "Operations Management",
         "Process Optimization"

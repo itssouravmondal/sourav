@@ -39,8 +39,8 @@ function Research() {
       }
     },
     {
-      title: "Digital Transformation in Music Distribution",
-      description: "Analysis of digital transformation trends in music distribution, including streaming platforms, blockchain technology, and automated royalty systems.",
+      title: "PRD: ResumePro Interview Insights",
+      description: "An AI-powered interview preparation tool that automatically generates personalized interview questions based on a candidate’s resume. By leveraging advanced resume analysis, ResumePro ensures contextually relevant, skill-focused, and role-specific questions, enhancing interview quality while reducing recruiter workload. Built on the VectorShift no-code platform, it streamlines the hiring process, ensuring consistency, efficiency, and deeper candidate assessments.",
       links: {
         web: "https://example.com/research5",
         doc: "https://example.com/research5/doc",

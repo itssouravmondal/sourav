@@ -18,12 +18,21 @@ function Skills() {
       ]
     },
     {
-      title: "Design",
+      title: "AI Agent & Automation",
       skills: [
-        "UX Research",
-        "Figma",
-        "Workflow Diagrams",
-        "Conversational AI Design"
+        "AI Agent Workflow Diagrams",
+        "Agentic AI Systems Workflow",
+        "Prompt Engineering for AI Systems",
+        "Conversational AI Design",
+        "API Integrations for AI Workflows",
+        "AI-Powered Business Process Automation",
+        "AI-Enabled Customer Support Automation",
+        "AI-Powered Knowledge Base Development",
+        "Multi-Modal AI Integration (Text, Voice, Image)",
+        "AI-Driven Decision-Making Systems",
+        "Personalization & Recommendation Systems using AI",
+        "AI-Driven Predictive Analytics & Trend Forecasting",
+        "Fine-Tuning AI Models for Specific Use Cases"
       ]
     },
     {

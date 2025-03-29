@@ -17,7 +17,7 @@ function Projects() {
       links: {
         web: "https://example.com/project2",
         doc: "https://docs.google.com/document/d/e/2PACX-1vRie7d21CnXD-KpHiCPTy7nA7465zxjQIwiA_rcH5L2PXPQPnu128AFypV8s0k_eQ/pub",
-        ppt: "<iframe src="https://docs.google.com/document/d/e/2PACX-1vRie7d21CnXD-KpHiCPTy7nA7465zxjQIwiA_rcH5L2PXPQPnu128AFypV8s0k_eQ/pub?embedded=true"></iframe>"
+        ppt: "https://example.com/project1/ppt"
       }
     },
     {

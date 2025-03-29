@@ -16,7 +16,7 @@ function Projects() {
       description: "An AI-powered image generation tool built on VectorShift’s Generative AI technology, enabling users to create high-quality, realistic, and artistic images from text, blogs, and articles. Designed for seamless content enhancement, VectorGen Spectrum transforms written concepts into visually compelling visuals, streamlining creative workflows for designers, marketers, and content creators.",
       links: {
         web: "https://example.com/project2",
-        doc: "https://example.com/project2/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vRie7d21CnXD-KpHiCPTy7nA7465zxjQIwiA_rcH5L2PXPQPnu128AFypV8s0k_eQ/pub",
         ppt: "https://example.com/project2/ppt"
       }
     },

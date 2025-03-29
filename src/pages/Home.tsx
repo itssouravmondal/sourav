@@ -44,7 +44,7 @@ function Home() {
       title: "Projects",
       items: [
         {
-          name: "Interview Insights: ResumeProt",
+          name: "ResumeProt",
           description: "For interview preparation",
           link: "#"
         },

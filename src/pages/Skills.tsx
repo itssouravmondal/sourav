@@ -44,13 +44,23 @@ function Skills() {
       ]
     },
     {
-      title: "AI & Automation Tools",
+      title: "Top Tools",
       skills: [
-        "Agentic AI Systems Workflow",
-        "Voiceflow",
-        "Vector Shift",
-        "n8n",
-        "Business Process Optimization"
+        "Excel",
+        "Canva",
+        "GA4",
+        "GTM",
+        "Jira",
+        "ClickUp",
+        "Lark",
+        "GitHub",
+        "Visual Studio",
+        "StackBlitz",
+        "Netlify",
+        "Postman",
+        "Insomnia",
+        "Looker Studio",
+        "Jupyter Notebook"     
       ]
     }
   ];

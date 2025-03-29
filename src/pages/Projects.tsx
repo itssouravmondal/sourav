@@ -30,8 +30,8 @@ function Projects() {
       }
     },
     {
-      title: "Product Discovery Using Sentiment Analysis",
-      description: "Conducted sentiment analysis for product discovery and market research, helping to identify user needs and improve product offerings.",
+      title: "AI AudioBox: Exploring the World of AI Audio",
+      description: "AI AudioBox is a YouTube channel dedicated to showcasing diverse AI-generated and enhanced audio content. From immersive soundscapes to AI-driven narrations, the channel explores the limitless possibilities of artificial intelligence in audio production. Whether it’s voice synthesis, sound design, or AI-powered storytelling, AI AudioBox delivers unique and engaging auditory experiences for listeners and creators alike.",
       links: {
         web: "https://example.com/project4",
         doc: "https://example.com/project4/doc",

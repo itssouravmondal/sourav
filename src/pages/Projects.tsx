@@ -8,7 +8,7 @@ function Projects() {
       links: {
         web: "https://example.com/project1",
         doc: "https://docs.google.com/document/d/e/2PACX-1vQp14igr-UqvlgiHyskxnOrcQCu0UrZtIEsPjEYuuGc8QJ4qufREYhB7WJ6mpGKAQ/pub",
-        ppt: "https://example.com/project1/ppt"
+        ppt: "https://docs.google.com/presentation/d/e/2PACX-1vRJUEKu2Agrz_tIMCUUgvpJL-WvlzR8ldDHtRhMAAWOzhSm48sjSIjb1YgifOlYxw/pub?start=true&loop=true&delayms=3000"
       }
     },
     {

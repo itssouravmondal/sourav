@@ -46,17 +46,17 @@ function Home() {
         {
           name: "ResumePro",
           description: "For interview preparation",
-          link: "#"
+          link: "https://itssouravmondal.netlify.app/projects"
         },
         {
           name: "VectorGen Spectrum",
           description: "AI Image Generator Tool",
-          link: "#"
+          link: "https://itssouravmondal.netlify.app/projects"
         },
         {
           name: "AI AudioBox: YouTube Channel",
           description: "AI-powered storytelling",
-          link: "#"
+          link: "https://itssouravmondal.netlify.app/projects"
         }
       ],
       link: "/projects"

@@ -7,7 +7,7 @@ function Projects() {
       description: "An AI-powered tool designed to revolutionize interview preparation by automatically generating personalized interview questions based on a candidate’s resume. Leveraging advanced resume analysis, ResumePro Interview Insights creates contextually relevant questions tailored to a candidate’s experience, skills, and cultural fit. This tool streamlines the hiring process, ensuring consistency, efficiency, and deeper candidate assessments while reducing the time recruiters spend on manual question creation.",
       links: {
         web: "https://example.com/project1",
-        doc: "https://example.com/project1/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vQp14igr-UqvlgiHyskxnOrcQCu0UrZtIEsPjEYuuGc8QJ4qufREYhB7WJ6mpGKAQ/pub",
         ppt: "https://example.com/project1/ppt"
       }
     },
@@ -25,7 +25,7 @@ function Projects() {
       description: "An intelligent AI assistant designed to provide instant, accurate guidance on music metadata best practices, service offerings, and licensing agreements. By streamlining information delivery and reducing support ticket volume, the chatbot will enhance user experience while ensuring consistency in responses.",
       links: {
         web: "https://example.com/project3",
-        doc: "https://example.com/project3/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vR4Cp2Ks2PsYIZX7ObmdttO0bWpsOTnDa-iVHKglxXvyxAnVZB8uq9lSEHiLI_TZA/pub",
         ppt: "https://example.com/project3/ppt"
       }
     },
@@ -33,7 +33,7 @@ function Projects() {
       title: "AI AudioBox: Exploring the World of AI Audio",
       description: "AI AudioBox is a YouTube channel dedicated to showcasing diverse AI-generated and enhanced audio content. From immersive soundscapes to AI-driven narrations, the channel explores the limitless possibilities of artificial intelligence in audio production. Whether it’s voice synthesis, sound design, or AI-powered storytelling, AI AudioBox delivers unique and engaging auditory experiences for listeners and creators alike.",
       links: {
-        web: "https://example.com/project4",
+        web: "https://www.youtube.com/channel/UCLXoept_dMOYcAMiTxj9h7A",
         doc: "https://example.com/project4/doc",
         ppt: "https://example.com/project4/ppt"
       }

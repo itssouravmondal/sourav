@@ -34,7 +34,7 @@ function Projects() {
       description: "AI AudioBox is a YouTube channel dedicated to showcasing diverse AI-generated and enhanced audio content. From immersive soundscapes to AI-driven narrations, the channel explores the limitless possibilities of artificial intelligence in audio production. Whether it’s voice synthesis, sound design, or AI-powered storytelling, AI AudioBox delivers unique and engaging auditory experiences for listeners and creators alike.",
       links: {
         web: "https://www.youtube.com/channel/UCLXoept_dMOYcAMiTxj9h7A",
-        doc: "https://example.com/project4/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vSQrEGT5EnLiVLDQqI20bJST-xMNGNjl1WAPLLDZn1Fm6xUwHAsAZVt6xTRyAhdgz7XhqV1itjNKSGa/pub",
         ppt: "https://example.com/project4/ppt"
       }
     }

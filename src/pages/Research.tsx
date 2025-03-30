@@ -7,7 +7,7 @@ function Research() {
       description: "A strategic analysis of the evolving Indian music distribution landscape, highlighting key opportunities for a new entrant. This report examines industry trends, competitive dynamics, and growth potential, offering actionable insights to establish a strong market presence. With digital platforms driving music consumption, the report explores how a modern distribution organization can leverage emerging opportunities, cater to regional markets, and differentiate through specialized services.",
       links: {
         web: "https://example.com/research1",
-        doc: "https://example.com/research1/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vRV3VR4jRICY6NR1lyT3BmKP-x8n2hFwJVGxIbb676SnXnLJhrk-caAWEvn3GqvMQ/pub",
         ppt: "https://example.com/research1/ppt"
       }
     },
@@ -25,25 +25,25 @@ function Research() {
       description: "A qualitative analysis of user feedback on Netflix, highlighting key strengths and improvement areas. While users appreciate offline viewing, personalized recommendations, and high-quality streaming, they report challenges with app stability, interface navigation, and content availability. Addressing these issues and implementing user-requested features like enhanced playback controls and expanded payment options can significantly boost user satisfaction. The insights provide actionable recommendations to refine Netflix’s platform and enhance engagement.",
       links: {
         web: "https://example.com/research3",
-        doc: "https://example.com/research3/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vTBMlPv5q_TAljZjPwKOTNJMt5OMwl5Hi1eVVdy5OwEh-4oWpuIwqVXLbqOjhqfuw/pub",
         ppt: "https://example.com/research3/ppt"
       }
     },
     {
-      title: "AI-Driven Music Artwork Generation: System Architecture",
+      title: "AI-Driven Music Artwork Generation: System Architecture & Technical Framework",
       description: "An advanced AI-powered system that transforms musical elements into visually compelling album artwork. Using GPT-4o for sentiment analysis, VectorShift for prompt optimization, and DALL-E 3 for image generation, the system creates high-resolution visuals aligned with lyrics, mood, and genre. While the architecture is robust, enhancing sentiment interpretation and user feedback can further improve output quality. Business opportunities through API integration and subscription models offer potential for commercialization.",
       links: {
         web: "https://example.com/research4",
-        doc: "https://example.com/research4/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vSuD2CvGzBveXsjjDLIQD1V0-Mafuxs0paEyPEivagHtUbBe-Ao08Hs09EUNexgiA/pub",
         ppt: "https://example.com/research4/ppt"
       }
     },
     {
-      title: "PRD: ResumePro Interview Insights",
+      title: "ResumePro Interview Insights",
       description: "An AI-powered interview preparation tool that automatically generates personalized interview questions based on a candidate’s resume. By leveraging advanced resume analysis, ResumePro ensures contextually relevant, skill-focused, and role-specific questions, enhancing interview quality while reducing recruiter workload. Built on the VectorShift no-code platform, it streamlines the hiring process, ensuring consistency, efficiency, and deeper candidate assessments.",
       links: {
         web: "https://example.com/research5",
-        doc: "https://example.com/research5/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vRncLG51WQQScK7RZMtRYenhk_sgBCVtwpMuV4zclEhDt2RIY9r-bdp8qSw6TfkPg/pub",
         ppt: "https://example.com/research5/ppt"
       }
     },
@@ -52,7 +52,7 @@ function Research() {
       description: "By 2025, AI-driven workflow automation has become a core driver of business transformation, enhancing efficiency, innovation, and scalability across industries. Organizations leveraging AI automation and agentic AI systems experience higher productivity, smarter decision-making, and streamlined operations. This report explores how AI-powered workflows are redefining business processes, operational strategies, and enterprise agility, providing actionable insights into implementation, benefits, and real-world applications of intelligent automation.",
       links: {
         web: "https://example.com/research6",
-        doc: "https://example.com/research6/doc",
+        doc: "https://docs.google.com/document/d/e/2PACX-1vTtAHqaX_a_OaTzsxjLP4jt1oGNkdnu_YPqDw4Kh0BivTDNI8QhV4rui7k6oW2wHQ/pub",
         ppt: "https://example.com/research6/ppt"
       }
     }

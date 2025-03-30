@@ -87,28 +87,12 @@ function Research() {
               </p>
               <div className="flex space-x-4 mt-auto">
                 <a
-                  href={project.links.web}
-                  className="btn gradient-bg text-sm px-4 py-2"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  View Project
-                </a>
-                <a
                   href={project.links.doc}
                   className="btn gradient-bg text-sm px-4 py-2"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   View Doc
-                </a>
-                <a
-                  href={project.links.ppt}
-                  className="btn gradient-bg text-sm px-4 py-2"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  View PPT
                 </a>
               </div>
             </motion.div>

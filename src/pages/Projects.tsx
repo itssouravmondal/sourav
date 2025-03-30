@@ -26,7 +26,7 @@ function Projects() {
       links: {
         web: "https://example.com/project3",
         doc: "https://docs.google.com/document/d/e/2PACX-1vR4Cp2Ks2PsYIZX7ObmdttO0bWpsOTnDa-iVHKglxXvyxAnVZB8uq9lSEHiLI_TZA/pub",
-        ppt: "https://example.com/project3/ppt"
+        ppt: "https://docs.google.com/presentation/d/e/2PACX-1vSQMf-cdUOMuuxTounh3Ppuo_5RrZ0haX98u5UX4IK3RyG1PSigbn099oEqcmZ0gg/pub?start=true&loop=true&delayms=3000"
       }
     },
     {
@@ -35,7 +35,7 @@ function Projects() {
       links: {
         web: "https://www.youtube.com/channel/UCLXoept_dMOYcAMiTxj9h7A",
         doc: "https://docs.google.com/document/d/e/2PACX-1vSQrEGT5EnLiVLDQqI20bJST-xMNGNjl1WAPLLDZn1Fm6xUwHAsAZVt6xTRyAhdgz7XhqV1itjNKSGa/pub",
-        ppt: "https://example.com/project4/ppt"
+        ppt: "https://www.youtube.com/channel/UCLXoept_dMOYcAMiTxj9h7A"
       }
     }
   ];

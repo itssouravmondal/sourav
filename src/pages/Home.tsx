@@ -128,7 +128,7 @@ function Home() {
               Sourav Mondal
             </h1>
             <p className="text-xl text-gray-700 mb-8">
-              AI-Powered Product Innovation | Business Growth & Automation | Data-Driven Decision Making
+              Digital Product | AI Agent | Agentic AI Workflow
             </p>
             <p className="text-lg text-gray-700 mb-8">
               As an aspiring Digital Product Manager, I am passionate about transforming business workflows through product innovation and AI-driven solutions. With a background in product management, operations, digital marketing, and data management, I bring a strategic approach to building impactful digital products.

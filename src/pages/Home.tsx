@@ -46,17 +46,17 @@ function Home() {
         {
           name: "ResumePro",
           description: "For interview preparation",
-          link: "/projects"
+          link: "https://docs.google.com/presentation/d/e/2PACX-1vRJUEKu2Agrz_tIMCUUgvpJL-WvlzR8ldDHtRhMAAWOzhSm48sjSIjb1YgifOlYxw/pub?start=true&loop=true&delayms=3000"
         },
         {
           name: "VectorGen Spectrum",
           description: "AI Image Generator Tool",
-          link: "/projects"
+          link: "https://docs.google.com/presentation/d/e/2PACX-1vR7pJjP_PrhoQNKEazoP4pfdv5uChTU68zxCCGYfpb57p3ELhtP8tcBjNhjplPYUw/pub?start=true&loop=true&delayms=3000"
         },
         {
           name: "AI AudioBox: YouTube Channel",
           description: "AI-powered storytelling",
-          year: "2025"
+          link: "https://www.youtube.com/channel/UCLXoept_dMOYcAMiTxj9h7A"
         }
       ],
       link: "/projects"

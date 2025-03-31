@@ -51,12 +51,12 @@ function Home() {
         {
           name: "VectorGen Spectrum",
           description: "AI Image Generator Tool",
-          link: "https://itssouravmondal.netlify.app/projects"
+          link: "/projects"
         },
         {
           name: "AI AudioBox: YouTube Channel",
           description: "AI-powered storytelling",
-          link: "https://itssouravmondal.netlify.app/projects"
+          link: "/projects"
         }
       ],
       link: "/projects"

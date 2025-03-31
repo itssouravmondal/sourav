@@ -16,7 +16,7 @@ function Research() {
       description: "Designed and implemented interactive dashboards in Google Data Studio to provide real-time insights into key performance indicators (KPIs) for music distribution. By visualizing data effectively, this solution enhances the efficiency of the distribution process, optimizes resource allocation, and supports data-driven decision-making for improved artist reach and revenue growth.",
       links: {
         web: "https://example.com/research2",
-        doc: "https://example.com/research2/doc",
+        doc: "https://drive.google.com/file/d/1AYfVDZuWjNGr9HsxmZ9k2dbEZJh5oiyT/view?usp=sharing",
         ppt: "https://example.com/research2/ppt"
       }
     },

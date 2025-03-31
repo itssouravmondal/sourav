@@ -174,9 +174,15 @@ function Home() {
                           <p className="text-sm text-blue-600 mt-1">
                             {item.duration}
                           </p>
-                        {'year' in item ? (
-                        <p className="text-sm text-blue-600 mt-1">
-                            {item.year}
+                        ) : null}
+                        {'link' in item ? (
+                          <a 
+                            href={item.link} 
+                            className="text-sm text-purple-600 hover:text-purple-700 mt-1 inline-block"
+                          >
+                            View Project →
+                          </a>
+                        ) : null}
                       </div>
                     ))}
                   </div>

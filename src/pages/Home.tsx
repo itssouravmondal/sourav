@@ -46,7 +46,7 @@ function Home() {
         {
           name: "ResumePro",
           description: "For interview preparation",
-          link: "/projects""
+          link: "/projects"
         },
         {
           name: "VectorGen Spectrum",

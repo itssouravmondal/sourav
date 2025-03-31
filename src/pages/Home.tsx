@@ -46,12 +46,12 @@ function Home() {
         {
           name: "ResumePro",
           description: "For interview preparation",
-          year: "2025"
+          link: "/projects"
         },
         {
           name: "VectorGen Spectrum",
           description: "AI Image Generator Tool",
-          year: "2025"
+          link: "/projects"
         },
         {
           name: "AI AudioBox: YouTube Channel",

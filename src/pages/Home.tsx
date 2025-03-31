@@ -83,30 +83,11 @@ function Home() {
                 />
               </div>
             </div>
-            <h1 className="section-title mb-6">
-              Sourav Mondal
-            </h1>
-            <p className="text-xl text-gray-700 mb-8">
-              Digital Product & Automation | AI Agent Workflows | Tech Innovation
-            </p>
-            {/* Social Links */}
+             {/* Social Links */}
 <div className="flex space-x-4 justify-center">
-  {/* GitHub */}
+   {/* LinkedIn */}
   <a 
-    href="https://github.com" 
-    target="_blank" 
-    rel="noopener noreferrer" 
-    className="p-2 rounded-full hover:bg-opacity-20 hover:backdrop-blur-sm"
-  >
-    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-github">
-      <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path>
-      <path d="M9 18c-4.51 2-5-2-7-2"></path>
-    </svg>
-  </a>
-
-  {/* LinkedIn */}
-  <a 
-    href="https://linkedin.com" 
+    href="https://www.linkedin.com/in/itssouravmondal/" 
     target="_blank" 
     rel="noopener noreferrer" 
     className="p-2 rounded-full hover:bg-opacity-20 hover:backdrop-blur-sm"
@@ -117,10 +98,22 @@ function Home() {
       <circle cx="4" cy="4" r="2"></circle>
     </svg>
   </a>
+  {/* GitHub */}
+  <a 
+    href="https://github.com/itssouravmondal/" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    className="p-2 rounded-full hover:bg-opacity-20 hover:backdrop-blur-sm"
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-github">
+      <path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"></path>
+      <path d="M9 18c-4.51 2-5-2-7-2"></path>
+    </svg>
+  </a>
 
   {/* Email */}
   <a 
-    href="mailto:your-email@example.com" 
+    href="contactsourav96@gmail.com" 
     className="p-2 rounded-full hover:bg-opacity-20 hover:backdrop-blur-sm"
   >
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="lucide lucide-mail">
@@ -129,6 +122,12 @@ function Home() {
     </svg>
   </a>
 </div>
+            <h1 className="section-title mb-6">
+              Sourav Mondal
+            </h1>
+            <p className="text-xl text-gray-700 mb-8">
+              Digital Product & Automation | AI Agent Workflows | Tech Innovation
+            </p>
             <p className="text-lg text-gray-700 mb-8">
               As an aspiring Digital Product Manager, I am passionate about transforming business workflows through product innovation and AI-driven solutions. With a background in product management, operations, digital marketing, and data management, I bring a strategic approach to building impactful digital products.
             </p>

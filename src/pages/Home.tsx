@@ -113,7 +113,7 @@ function Home() {
 
   {/* Email */}
   <a 
-    href="contactsourav96@gmail.com" 
+    href="mailto:contactsourav96@gmail.com" 
     target="_blank" 
     rel="noopener noreferrer"
     className="hover:text-blue-600 transition duration-300"

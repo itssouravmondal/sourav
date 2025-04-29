@@ -8,10 +8,9 @@ function Experience() {
       role: "Founder",
       duration: "Jan 2025 - Present",
       points: [
-        "Built and scaled Streamlloom, providing music, audio, and entertainment video distribution services",
-        "Managed artist relations, offering strategic music release planning and consultancy",
-        "Conducted market research & opportunity identification research on artist & label needs",
-        "Developing a music CMS platform with AI-driven tools for metadata management and music promotion"
+        "Built and scaled Streamlloom, providing music, audio, and entertainment video distribution consultancy services",
+        "Offering strategic music video release planning and consultancy",
+        "Developing an Agentic AI model for AI content creation automation"
       ]
     },
     {
